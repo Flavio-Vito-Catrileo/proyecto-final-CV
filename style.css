@@ -46,6 +46,30 @@
 			margin-left: 50px;
 		}
 		.redes {
-			display: block;
-			marker-end: 50px;
+			display: inline-block;
+			background-color: blue;
+			padding: 5px 10px;
+			color: white;
+			font-family: arial;
+			text-decoration: none;
+			margin-left: 20px;
+			margin-block-end: 5px;
+			border-radius: 20px
+			
+		}
+		.redes2 {
+			display: inline-block;
+			background-color: blue;
+			padding: 5px 10px;
+			color: white;
+			font-family: arial;
+			text-decoration: none;
+			margin-left: 20px;
+			margin-block-end: 70px;
+			border-radius: 20px
+
+				}
+
+		.redes2:{
+			hover: background-color: lightblue;
 		}
