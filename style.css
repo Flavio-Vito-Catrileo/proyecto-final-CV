@@ -26,6 +26,12 @@
 		color: white;
 		margin-left: 30px;
 		 }
+
+		 .nombre {
+		 		font-family: 'Lora', serif;
+		    	color: goldenrod;
+				font-size: 1.5em;
+		 }
  
 		h2, 
 		h3, 
@@ -33,7 +39,7 @@
 		h5 {
 		    font-family: 'Lora', serif;
 		    color: goldenrod;
-			font-size: 1.5em;
+			font-size: 1em;
 			margin-left: 30px;
 		}
 		.texto {
