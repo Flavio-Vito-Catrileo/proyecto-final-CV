@@ -1,0 +1,51 @@
+		body {
+				
+  				heigh:1502px;
+  				background-image: url("https://www.solofondos.com/wp-content/uploads/2015/11/Im%C3%A1genes-de-fondo-para-sitio-web-768x432.jpg");
+  				background-size: 160%;
+  			}
+  			.imagen-de-perfil {
+  				border-width: 5px;
+  				border-color: goldenrod;
+  				border-style: groove;
+  				border-radius: 55px;
+  				margin-left: 50px;
+
+  			}
+		.info-personal{
+			text-align: left;
+			color: white;
+			margin-left: 40px;
+		}
+		p{
+			color: white;
+			font-size: 1em;
+			margin-left: 30px;
+		}
+		ul { 
+		color: white;
+		margin-left: 30px;
+		 }
+ 
+		h2, 
+		h3, 
+		h4,
+		h5 {
+		    font-family: 'Lora', serif;
+		    color: goldenrod;
+			font-size: 1.5em;
+			margin-left: 30px;
+		}
+		.texto {
+				text-align: justify-all;
+		}
+		h1 {
+			font-family: 'Lora', serif;
+		    color: goldenrod;
+			font-size: 1.5em;
+			margin-left: 50px;
+		}
+		.redes {
+			display: block;
+			marker-end: 50px;
+		}
